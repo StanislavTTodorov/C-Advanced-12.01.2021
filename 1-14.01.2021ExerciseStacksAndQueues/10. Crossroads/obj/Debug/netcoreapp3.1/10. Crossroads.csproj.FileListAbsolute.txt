@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.exe
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\Users\sttar\OneDrive\Работен плот\C# Advanced  12.01.2021\1-14.01.2021ExerciseStacksAndQueues\1-14.01.2021ExerciseStacksAndQueues\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.genruntimeconfig.cache
