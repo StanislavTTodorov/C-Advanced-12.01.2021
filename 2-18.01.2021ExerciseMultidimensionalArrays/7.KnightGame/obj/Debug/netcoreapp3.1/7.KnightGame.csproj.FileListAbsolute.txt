@@ -1,0 +1,26 @@
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.exe
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.deps.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.runtimeconfig.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.runtimeconfig.dev.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.csprojAssemblyReference.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.AssemblyInfoInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.AssemblyInfo.cs
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.genruntimeconfig.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\netcoreapp3.1\7.KnightGame.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\2-18.01.2021ExeMultidimensionalArrays\2-18.01.2021ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\netcoreapp3.1\7.KnightGame.genruntimeconfig.cache

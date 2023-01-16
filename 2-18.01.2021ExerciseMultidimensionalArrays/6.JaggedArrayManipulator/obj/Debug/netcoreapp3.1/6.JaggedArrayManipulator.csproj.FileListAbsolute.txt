@@ -1,0 +1,13 @@
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.exe
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.deps.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.genruntimeconfig.cache

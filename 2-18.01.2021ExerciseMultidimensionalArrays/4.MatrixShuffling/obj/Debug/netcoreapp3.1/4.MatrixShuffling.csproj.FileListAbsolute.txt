@@ -1,0 +1,13 @@
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.exe
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.deps.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfo.cs
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.genruntimeconfig.cache

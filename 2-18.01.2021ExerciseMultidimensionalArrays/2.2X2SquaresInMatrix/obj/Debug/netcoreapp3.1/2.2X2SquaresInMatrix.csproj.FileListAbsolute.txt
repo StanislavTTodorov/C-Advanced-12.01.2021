@@ -1,0 +1,13 @@
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.exe
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.deps.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.runtimeconfig.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.csprojAssemblyReference.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.AssemblyInfo.cs
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.dll
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.pdb
+C:\Users\sttar\source\repos\2-18.01.2021ExerciseMultidimensionalArrays\2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2.2X2SquaresInMatrix.genruntimeconfig.cache
