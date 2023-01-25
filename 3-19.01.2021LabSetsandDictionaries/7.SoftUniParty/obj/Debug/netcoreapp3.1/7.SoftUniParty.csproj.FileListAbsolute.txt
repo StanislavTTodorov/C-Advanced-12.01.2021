@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-19.01.2021LabSetsandDictionaries\3-19.01.2021LabSetsandDictionaries\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.genruntimeconfig.cache
