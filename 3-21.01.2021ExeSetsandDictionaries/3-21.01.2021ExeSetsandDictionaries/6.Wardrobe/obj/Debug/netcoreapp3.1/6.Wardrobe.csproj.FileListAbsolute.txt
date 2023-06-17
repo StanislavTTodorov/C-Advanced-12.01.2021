@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\bin\Debug\netcoreapp3.1\6.Wardrobe.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\bin\Debug\netcoreapp3.1\6.Wardrobe.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\bin\Debug\netcoreapp3.1\6.Wardrobe.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\bin\Debug\netcoreapp3.1\6.Wardrobe.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\bin\Debug\netcoreapp3.1\6.Wardrobe.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\bin\Debug\netcoreapp3.1\6.Wardrobe.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\6.Wardrobe\obj\Debug\netcoreapp3.1\6.Wardrobe.genruntimeconfig.cache

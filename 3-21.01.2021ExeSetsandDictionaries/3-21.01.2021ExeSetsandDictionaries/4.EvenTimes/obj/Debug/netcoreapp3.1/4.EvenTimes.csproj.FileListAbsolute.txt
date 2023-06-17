@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\bin\Debug\netcoreapp3.1\4.EvenTimes.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\bin\Debug\netcoreapp3.1\4.EvenTimes.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\bin\Debug\netcoreapp3.1\4.EvenTimes.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\bin\Debug\netcoreapp3.1\4.EvenTimes.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\bin\Debug\netcoreapp3.1\4.EvenTimes.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\bin\Debug\netcoreapp3.1\4.EvenTimes.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\4.EvenTimes\obj\Debug\netcoreapp3.1\4.EvenTimes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\bin\Debug\netcoreapp3.1\7.TheV-Logger.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\bin\Debug\netcoreapp3.1\7.TheV-Logger.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\bin\Debug\netcoreapp3.1\7.TheV-Logger.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\bin\Debug\netcoreapp3.1\7.TheV-Logger.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\bin\Debug\netcoreapp3.1\7.TheV-Logger.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\bin\Debug\netcoreapp3.1\7.TheV-Logger.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\7.TheV-Logger\obj\Debug\netcoreapp3.1\7.TheV-Logger.genruntimeconfig.cache

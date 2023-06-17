@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\bin\Debug\netcoreapp3.1\3.PeriodicTable.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\bin\Debug\netcoreapp3.1\3.PeriodicTable.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\bin\Debug\netcoreapp3.1\3.PeriodicTable.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\bin\Debug\netcoreapp3.1\3.PeriodicTable.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\bin\Debug\netcoreapp3.1\3.PeriodicTable.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\bin\Debug\netcoreapp3.1\3.PeriodicTable.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\3.PeriodicTable\obj\Debug\netcoreapp3.1\3.PeriodicTable.genruntimeconfig.cache

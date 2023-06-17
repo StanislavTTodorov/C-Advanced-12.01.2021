@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\bin\Debug\netcoreapp3.1\2.SetsOfElements.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\bin\Debug\netcoreapp3.1\2.SetsOfElements.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\bin\Debug\netcoreapp3.1\2.SetsOfElements.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\bin\Debug\netcoreapp3.1\2.SetsOfElements.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\bin\Debug\netcoreapp3.1\2.SetsOfElements.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\bin\Debug\netcoreapp3.1\2.SetsOfElements.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\3-21.01.2021ExeSetsandDictionaries\3-21.01.2021ExeSetsandDictionaries\2.SetsOfElements\obj\Debug\netcoreapp3.1\2.SetsOfElements.genruntimeconfig.cache
