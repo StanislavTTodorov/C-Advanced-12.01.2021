@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.genruntimeconfig.cache

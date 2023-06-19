@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\bin\Debug\netcoreapp3.1\2.LineNumbers.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\bin\Debug\netcoreapp3.1\2.LineNumbers.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\bin\Debug\netcoreapp3.1\2.LineNumbers.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\bin\Debug\netcoreapp3.1\2.LineNumbers.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\bin\Debug\netcoreapp3.1\2.LineNumbers.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\bin\Debug\netcoreapp3.1\2.LineNumbers.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\2.LineNumbers\obj\Debug\netcoreapp3.1\2.LineNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\bin\Debug\netcoreapp3.1\MakaBook.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\bin\Debug\netcoreapp3.1\MakaBook.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\bin\Debug\netcoreapp3.1\MakaBook.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\bin\Debug\netcoreapp3.1\MakaBook.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\bin\Debug\netcoreapp3.1\MakaBook.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\bin\Debug\netcoreapp3.1\MakaBook.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\obj\Debug\netcoreapp3.1\MakaBook.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\obj\Debug\netcoreapp3.1\MakaBook.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\obj\Debug\netcoreapp3.1\MakaBook.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\obj\Debug\netcoreapp3.1\MakaBook.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\obj\Debug\netcoreapp3.1\MakaBook.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\MakaBook\obj\Debug\netcoreapp3.1\MakaBook.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\4-22.01.2021LabStreamFileDirectories\4-22.01.2021LabStreamFileDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.genruntimeconfig.cache
