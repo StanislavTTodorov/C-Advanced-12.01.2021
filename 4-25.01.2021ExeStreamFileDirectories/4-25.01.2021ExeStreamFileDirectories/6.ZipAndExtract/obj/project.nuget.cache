@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7M3571yhSfMgpC2KMZqJhLzIecon7RCt+cEU/arQkkckDckhJkIl6e6JCr6wHXxUf7Qb80wLx2qedDs3cKWrg==",
+  "success": true,
+  "projectFilePath": "D:\\11.01.2023\\C#Advanced12.01.2021\\4-25.01.2021ExeStreamFileDirectories\\4-25.01.2021ExeStreamFileDirectories\\6.ZipAndExtract\\6.ZipAndExtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sttar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sttar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sttar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sttar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
