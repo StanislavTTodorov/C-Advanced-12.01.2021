@@ -1,0 +1,12 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.genruntimeconfig.cache

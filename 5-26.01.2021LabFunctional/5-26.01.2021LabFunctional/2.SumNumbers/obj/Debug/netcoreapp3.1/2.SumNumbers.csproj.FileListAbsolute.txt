@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\bin\Debug\netcoreapp3.1\2.SumNumbers.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\bin\Debug\netcoreapp3.1\2.SumNumbers.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\bin\Debug\netcoreapp3.1\2.SumNumbers.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\bin\Debug\netcoreapp3.1\2.SumNumbers.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\bin\Debug\netcoreapp3.1\2.SumNumbers.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\bin\Debug\netcoreapp3.1\2.SumNumbers.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\2.SumNumbers\obj\Debug\netcoreapp3.1\2.SumNumbers.genruntimeconfig.cache

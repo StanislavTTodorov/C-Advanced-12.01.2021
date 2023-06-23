@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\bin\Debug\netcoreapp3.1\1.SortEvenNumbers.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\bin\Debug\netcoreapp3.1\1.SortEvenNumbers.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\bin\Debug\netcoreapp3.1\1.SortEvenNumbers.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\bin\Debug\netcoreapp3.1\1.SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\bin\Debug\netcoreapp3.1\1.SortEvenNumbers.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\bin\Debug\netcoreapp3.1\1.SortEvenNumbers.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\1.SortEvenNumbers\obj\Debug\netcoreapp3.1\1.SortEvenNumbers.genruntimeconfig.cache

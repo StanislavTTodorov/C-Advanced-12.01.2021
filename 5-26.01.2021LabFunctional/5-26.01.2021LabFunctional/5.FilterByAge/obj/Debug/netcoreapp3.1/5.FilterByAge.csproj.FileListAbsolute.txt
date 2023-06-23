@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\bin\Debug\netcoreapp3.1\5.FilterByAge.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\bin\Debug\netcoreapp3.1\5.FilterByAge.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\bin\Debug\netcoreapp3.1\5.FilterByAge.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\bin\Debug\netcoreapp3.1\5.FilterByAge.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\bin\Debug\netcoreapp3.1\5.FilterByAge.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\bin\Debug\netcoreapp3.1\5.FilterByAge.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.genruntimeconfig.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-26.01.2021LabFunctional\5-26.01.2021LabFunctional\5.FilterByAge\obj\Debug\netcoreapp3.1\5.FilterByAge.csprojAssemblyReference.cache
