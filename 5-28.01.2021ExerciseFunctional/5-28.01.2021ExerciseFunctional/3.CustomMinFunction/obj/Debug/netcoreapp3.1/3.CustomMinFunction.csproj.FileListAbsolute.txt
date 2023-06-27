@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.genruntimeconfig.cache

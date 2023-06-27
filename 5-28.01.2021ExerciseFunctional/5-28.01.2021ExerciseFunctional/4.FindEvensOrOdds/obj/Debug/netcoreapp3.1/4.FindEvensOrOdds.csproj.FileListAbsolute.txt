@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.genruntimeconfig.cache

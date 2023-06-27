@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.genruntimeconfig.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.csprojAssemblyReference.cache

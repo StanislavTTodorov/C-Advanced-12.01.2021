@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.genruntimeconfig.cache

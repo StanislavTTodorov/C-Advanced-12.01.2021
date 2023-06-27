@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\bin\Debug\netcoreapp3.1\9. List of Predicates.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\bin\Debug\netcoreapp3.1\9. List of Predicates.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\bin\Debug\netcoreapp3.1\9. List of Predicates.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\bin\Debug\netcoreapp3.1\9. List of Predicates.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\bin\Debug\netcoreapp3.1\9. List of Predicates.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\bin\Debug\netcoreapp3.1\9. List of Predicates.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\5-28.01.2021ExerciseFunctional\5-28.01.2021ExerciseFunctional\9. List of Predicates\obj\Debug\netcoreapp3.1\9. List of Predicates.genruntimeconfig.cache
