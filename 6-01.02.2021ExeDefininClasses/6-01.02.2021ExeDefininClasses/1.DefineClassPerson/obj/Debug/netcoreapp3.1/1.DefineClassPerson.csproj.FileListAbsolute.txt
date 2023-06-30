@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\bin\Debug\netcoreapp3.1\1.DefineClassPerson.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\bin\Debug\netcoreapp3.1\1.DefineClassPerson.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\bin\Debug\netcoreapp3.1\1.DefineClassPerson.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\bin\Debug\netcoreapp3.1\1.DefineClassPerson.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\bin\Debug\netcoreapp3.1\1.DefineClassPerson.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\bin\Debug\netcoreapp3.1\1.DefineClassPerson.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\1.DefineClassPerson\obj\Debug\netcoreapp3.1\1.DefineClassPerson.genruntimeconfig.cache

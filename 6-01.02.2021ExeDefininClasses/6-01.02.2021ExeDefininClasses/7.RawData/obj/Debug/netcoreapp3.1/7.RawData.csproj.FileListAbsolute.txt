@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.genruntimeconfig.cache

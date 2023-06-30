@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-01.02.2021ExeDefininClasses\6-01.02.2021ExeDefininClasses\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.genruntimeconfig.cache
