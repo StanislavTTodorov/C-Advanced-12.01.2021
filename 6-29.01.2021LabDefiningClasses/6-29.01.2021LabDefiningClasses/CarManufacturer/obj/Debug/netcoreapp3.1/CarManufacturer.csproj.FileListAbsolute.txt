@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\6-29.01.2021LabDefiningClasses\6-29.01.2021LabDefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache
