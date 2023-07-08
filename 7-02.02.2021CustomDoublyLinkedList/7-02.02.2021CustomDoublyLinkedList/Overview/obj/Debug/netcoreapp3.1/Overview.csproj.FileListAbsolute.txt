@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\bin\Debug\netcoreapp3.1\Overview.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\bin\Debug\netcoreapp3.1\Overview.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\bin\Debug\netcoreapp3.1\Overview.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\bin\Debug\netcoreapp3.1\Overview.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\bin\Debug\netcoreapp3.1\Overview.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\bin\Debug\netcoreapp3.1\Overview.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\7-02.02.2021CustomDoublyLinkedList\7-02.02.2021CustomDoublyLinkedList\Overview\obj\Debug\netcoreapp3.1\Overview.genruntimeconfig.cache
