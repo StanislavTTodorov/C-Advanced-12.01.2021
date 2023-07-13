@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\bin\Debug\netcoreapp3.1\1BoxOfT.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\bin\Debug\netcoreapp3.1\1BoxOfT.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\bin\Debug\netcoreapp3.1\1BoxOfT.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\bin\Debug\netcoreapp3.1\1BoxOfT.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\bin\Debug\netcoreapp3.1\1BoxOfT.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\bin\Debug\netcoreapp3.1\1BoxOfT.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-05.02.2021LabGenerics\8-05.02.2021LabGenerics\1BoxOfT\obj\Debug\netcoreapp3.1\1BoxOfT.genruntimeconfig.cache
