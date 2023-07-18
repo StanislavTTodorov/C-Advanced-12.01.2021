@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\bin\Debug\netcoreapp3.1\7Tuple.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\bin\Debug\netcoreapp3.1\7Tuple.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\bin\Debug\netcoreapp3.1\7Tuple.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\bin\Debug\netcoreapp3.1\7Tuple.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\bin\Debug\netcoreapp3.1\7Tuple.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\bin\Debug\netcoreapp3.1\7Tuple.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\7Tuple\obj\Debug\netcoreapp3.1\7Tuple.genruntimeconfig.cache

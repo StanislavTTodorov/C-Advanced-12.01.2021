@@ -1,0 +1,12 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2.GenericBoxOfInteger.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2.GenericBoxOfInteger.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2.GenericBoxOfInteger.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2.GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2.GenericBoxOfInteger.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2.GenericBoxOfInteger.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2.GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2.GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2.GenericBoxOfInteger.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2.GenericBoxOfInteger.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2.GenericBoxOfInteger.genruntimeconfig.cache

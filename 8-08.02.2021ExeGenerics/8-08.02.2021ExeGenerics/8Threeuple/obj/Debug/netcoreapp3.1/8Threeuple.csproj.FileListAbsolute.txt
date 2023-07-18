@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\bin\Debug\netcoreapp3.1\8Threeuple.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\bin\Debug\netcoreapp3.1\8Threeuple.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\bin\Debug\netcoreapp3.1\8Threeuple.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\bin\Debug\netcoreapp3.1\8Threeuple.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\bin\Debug\netcoreapp3.1\8Threeuple.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\bin\Debug\netcoreapp3.1\8Threeuple.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\8-08.02.2021ExeGenerics\8-08.02.2021ExeGenerics\8Threeuple\obj\Debug\netcoreapp3.1\8Threeuple.genruntimeconfig.cache
