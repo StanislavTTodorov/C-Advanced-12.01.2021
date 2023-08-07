@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\bin\Debug\netcoreapp3.1\6Warships.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\bin\Debug\netcoreapp3.1\6Warships.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\bin\Debug\netcoreapp3.1\6Warships.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\bin\Debug\netcoreapp3.1\6Warships.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\bin\Debug\netcoreapp3.1\6Warships.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\bin\Debug\netcoreapp3.1\6Warships.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\6Warships\obj\Debug\netcoreapp3.1\6Warships.genruntimeconfig.cache

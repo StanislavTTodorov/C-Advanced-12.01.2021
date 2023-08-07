@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\bin\Debug\netcoreapp3.1\5The Fight for Gondor.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\bin\Debug\netcoreapp3.1\5The Fight for Gondor.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\bin\Debug\netcoreapp3.1\5The Fight for Gondor.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\bin\Debug\netcoreapp3.1\5The Fight for Gondor.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\bin\Debug\netcoreapp3.1\5The Fight for Gondor.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\bin\Debug\netcoreapp3.1\5The Fight for Gondor.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\5The Fight for Gondor\obj\Debug\netcoreapp3.1\5The Fight for Gondor.genruntimeconfig.cache

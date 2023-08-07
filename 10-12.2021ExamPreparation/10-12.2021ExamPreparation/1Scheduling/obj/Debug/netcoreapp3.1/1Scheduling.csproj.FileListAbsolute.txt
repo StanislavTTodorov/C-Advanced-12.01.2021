@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\bin\Debug\netcoreapp3.1\1Scheduling.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\bin\Debug\netcoreapp3.1\1Scheduling.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\bin\Debug\netcoreapp3.1\1Scheduling.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\bin\Debug\netcoreapp3.1\1Scheduling.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\bin\Debug\netcoreapp3.1\1Scheduling.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\bin\Debug\netcoreapp3.1\1Scheduling.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Scheduling\obj\Debug\netcoreapp3.1\1Scheduling.genruntimeconfig.cache

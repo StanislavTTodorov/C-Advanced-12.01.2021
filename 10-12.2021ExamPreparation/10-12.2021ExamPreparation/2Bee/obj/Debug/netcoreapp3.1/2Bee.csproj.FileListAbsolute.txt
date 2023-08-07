@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\bin\Debug\netcoreapp3.1\2Bee.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\bin\Debug\netcoreapp3.1\2Bee.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\bin\Debug\netcoreapp3.1\2Bee.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\bin\Debug\netcoreapp3.1\2Bee.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\bin\Debug\netcoreapp3.1\2Bee.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\bin\Debug\netcoreapp3.1\2Bee.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\2Bee\obj\Debug\netcoreapp3.1\2Bee.genruntimeconfig.cache

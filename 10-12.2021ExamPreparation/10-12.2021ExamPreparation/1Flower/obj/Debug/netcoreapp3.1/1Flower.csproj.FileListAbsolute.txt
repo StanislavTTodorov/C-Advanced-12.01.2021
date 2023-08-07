@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\bin\Debug\netcoreapp3.1\1Flower.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\bin\Debug\netcoreapp3.1\1Flower.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\bin\Debug\netcoreapp3.1\1Flower.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\bin\Debug\netcoreapp3.1\1Flower.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\bin\Debug\netcoreapp3.1\1Flower.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\bin\Debug\netcoreapp3.1\1Flower.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\10-12.2021ExamPreparation\10-12.2021ExamPreparation\1Flower\obj\Debug\netcoreapp3.1\1Flower.genruntimeconfig.cache
