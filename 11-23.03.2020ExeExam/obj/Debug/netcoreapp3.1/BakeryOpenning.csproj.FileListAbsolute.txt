@@ -1,0 +1,4 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\11-23.03.2020ExeExam\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\11-23.03.2020ExeExam\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\11-23.03.2020ExeExam\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\11-23.03.2020ExeExam\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
