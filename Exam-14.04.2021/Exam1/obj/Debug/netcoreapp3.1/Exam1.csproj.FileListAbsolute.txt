@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\bin\Debug\netcoreapp3.1\Exam1.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\bin\Debug\netcoreapp3.1\Exam1.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\bin\Debug\netcoreapp3.1\Exam1.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\bin\Debug\netcoreapp3.1\Exam1.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\14.04.2021\Exam-14.04.2021\Exam1\obj\Debug\netcoreapp3.1\Exam1.genruntimeconfig.cache
