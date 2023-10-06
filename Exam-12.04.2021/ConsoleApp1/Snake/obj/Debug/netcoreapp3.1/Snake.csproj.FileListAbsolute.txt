@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

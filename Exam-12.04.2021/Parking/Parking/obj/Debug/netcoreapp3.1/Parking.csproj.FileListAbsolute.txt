@@ -1,0 +1,13 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

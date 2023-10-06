@@ -1,0 +1,27 @@
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.exe
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.deps.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.dev.json
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.csprojAssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.dll
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.pdb
+C:\Users\sttar\OneDrive\Работен плот\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.genruntimeconfig.cache
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.exe
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.deps.json
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.json
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.dev.json
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.dll
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Bomb.pdb
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.csproj.AssemblyReference.cache
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfoInputs.cache
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfo.cs
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.csproj.CoreCompileInputs.cache
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.dll
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.pdb
+S:\Projects\C#Advanced12.01.2021\Exam-12.04.2021\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Bomb.genruntimeconfig.cache
